@@ -12,7 +12,7 @@ INSTALANDO A JgraphT e IMPORTANDO ESTE PROJETO NO ECLIPSE
 1. Selecione File -> Import
 2. Na janela "Import - Select", selecione Git -> Projects from Git e clique Next
 3. Na janela "Select Repository Source", selecione Clone URI e clique Next
-4. Na janela "Source Git Repository", adicione a URI (sem as aspas). Os campos Host e Repository Path 
+4. Na janela "Source Git Repository", adicione a URI. Os campos Host e Repository Path 
    serão preenchidos automativamente. Marque Connection Protocol: https. Deixe os demais campos em branco. Clique Next.
 5. Na janela "Branch Selection", marque o branch "master".
 6. Na janela "Local Destination", indique um diretório vazio onde o projeto deve ser instalado. 
